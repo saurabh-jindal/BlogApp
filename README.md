@@ -1,8 +1,8 @@
 # BlogApp
-A BlogApp website using restful routing.
+A BlogApp website using restful routing.<br />
 Blog app is created using:
-#Node JS 
-#Express
-#Express-sanitizer
-#Mongo DB
-#EJS
+Node JS 
+Express
+Express-sanitizer
+Mongo DB
+EJS
